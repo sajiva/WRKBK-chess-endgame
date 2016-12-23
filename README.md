@@ -1,9 +1,5 @@
 # README #
 
-The program source code consists of following java files:
-+ GameUI.java
-+ EndGame.java
-
 To compile the program:
 javac GameUI.java EndGame.java
 or
